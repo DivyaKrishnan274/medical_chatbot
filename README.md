@@ -2,3 +2,4 @@ This is an AI-powered Medical Chatbot that processes both images and text to pro
 
 
 
+![Uploading image.png…]()
