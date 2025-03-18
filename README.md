@@ -4,3 +4,6 @@ This is an AI-powered Medical Chatbot that processes both images and text to pro
 ![image](https://github.com/user-attachments/assets/05a4a7ab-0078-4a48-ae99-480cf1a0ceca)
 
 
+![image](https://github.com/user-attachments/assets/bef7a14d-aef5-49e3-9a99-dcee44bbcc34)
+
+
